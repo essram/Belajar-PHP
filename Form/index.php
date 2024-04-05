@@ -1,6 +1,7 @@
 <?php 
 
 $nama = $_GET['nama'];
+$alamat = $_GET['alamat'];
 
 ?>
 
@@ -12,7 +13,13 @@ $nama = $_GET['nama'];
     <title>Belajar PHP</title>
 </head>
 <body>
+    <form action="">
+        <input type="text" name="nama">
+        <input type="text" name="alamat">
+        <input type="submit">
+    </form>
     <h1>Selamat Datang <?php echo $nama?> </h1>
+    <p>Anda tinggal di <?php echo $alamat?></p>
     <p>Selamat belajar pemograman dasar PHP</p>
 </body>
 </html>
