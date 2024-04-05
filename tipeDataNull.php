@@ -1,6 +1,6 @@
 <?php 
 //cara mengindari pesan eror
-$pesan= null;
+$pesan = null;
 $dataDiri = [
     "nama" => "Rama Esa Vahiba",
     "golDarah" => null,
