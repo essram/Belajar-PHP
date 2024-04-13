@@ -1,3 +1,4 @@
+<!-- Switch pada PHP -->
 <?php 
 $nilai = 'Z';
 switch ($nilai){
