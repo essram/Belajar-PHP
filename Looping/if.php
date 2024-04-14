@@ -10,7 +10,7 @@ $warna = ["merah","biru","kuning","merah","hijau","oranye","ungu",
 
 $jumlah_merah=0;
 
-for($i = 0; $i<14;$i++){
+for($i = 0; $i<15;$i++){
     if($warna[$i] == "merah"){
         $jumlah_merah++;
 }
