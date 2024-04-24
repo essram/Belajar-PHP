@@ -9,4 +9,6 @@ function cetakPesan($nama = null){
 
 
 cetakPesan('Rama');
+
+//kurang lebih sepert ini
 ?>
