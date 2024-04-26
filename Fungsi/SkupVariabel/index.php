@@ -7,8 +7,9 @@ function cetakPesan($nama = null){
       echo "Selamat Datang $nama!";
 }  
 
+$nama = "rama";
 
-cetakPesan('Rama');
+cetakPesan($nama);
 
 //kurang lebih sepert ini
 ?>
