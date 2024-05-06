@@ -1,8 +1,1 @@
-Selamat datangSelamat datangSelamat datangSelamat datangSelamat datangSelamat datangSelamat datangSelamat datangSelamat datangSelamat datang
-Selamat datang
-Selamat datang
-Selamat datang
-Selamat datang
-Selamat datang
-Selamat datang
-Selamat datang
+Ini adalah pesan yang diketik di file PHP
